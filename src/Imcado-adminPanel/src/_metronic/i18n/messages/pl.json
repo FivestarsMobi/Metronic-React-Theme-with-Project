@@ -1,0 +1,32 @@
+{
+  "MENU.DASHBOARD": "Dashboard_",
+  "MENU.NEW_EVENT": " New Event_",
+  "MENU.ADD_EVENT": "Add Event_",
+  "MENU.NEW_EVENT_NAME": "New Event Name_",
+  "MENU.SAVE": "Save_",
+  "MENU.CANCEL": "Cancel_",
+  
+
+  
+  "MENU.DETAILS": "Details_",
+  "MENU.PARTICIPANTS": "Participants_",
+  "MENU.PHOTOS": "Photos_",
+  "MENU.NEXT_EVENT": "Next Event_",
+  "MENU.NUMBER_OF_PHOTOS": "Number of Photos_",
+  "MENU.NUMBER_OF_PARTICIPANTS": "Number of Participants_",
+  "MENU.NAME":"Name_",
+  "MENU.START_DATE" : "Start Date_",
+  "MENU.END_DATE" : "End Date_",
+  "MENU.PUBLIC" : "Public_",
+  "MENU.ACTIONS" : "Actions_",
+  
+  
+
+  
+  
+
+  "AUTH.EMAIL":"Email_",
+  "AUTH.LOGIN.TITLE": "IMCADO Admin Panel_",
+  "AUTH.SIGNOUT.TITLE": "Sign out_"
+  
+}
